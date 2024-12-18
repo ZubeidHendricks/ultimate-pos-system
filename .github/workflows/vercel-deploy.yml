@@ -7,6 +7,7 @@ on:
     branches: [ main ]
 
 env:
+  VERCEL_ORG_ID: team_W5CV5C3x0K1wMKu4GGWXBrwE
   VERCEL_PROJECT_ID: prj_8WXZ8lr5KbR6hy1SXNNgIS6qhTka
 
 jobs:
